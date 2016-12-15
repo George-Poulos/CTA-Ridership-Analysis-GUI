@@ -1,0 +1,9 @@
+c:\users\georg\documents\visual studio 2015\Projects\Proj6\Proj6\bin\Release\Proj6.exe.config
+c:\users\georg\documents\visual studio 2015\Projects\Proj6\Proj6\bin\Release\Proj6.exe
+c:\users\georg\documents\visual studio 2015\Projects\Proj6\Proj6\bin\Release\Proj6.pdb
+c:\users\georg\documents\visual studio 2015\Projects\Proj6\Proj6\obj\Release\Proj6.Form1.resources
+c:\users\georg\documents\visual studio 2015\Projects\Proj6\Proj6\obj\Release\Proj6.Properties.Resources.resources
+c:\users\georg\documents\visual studio 2015\Projects\Proj6\Proj6\obj\Release\Proj6.csproj.GenerateResource.Cache
+c:\users\georg\documents\visual studio 2015\Projects\Proj6\Proj6\obj\Release\Proj6.exe
+c:\users\georg\documents\visual studio 2015\Projects\Proj6\Proj6\obj\Release\Proj6.pdb
+c:\users\georg\documents\visual studio 2015\Projects\Proj6\Proj6\obj\Release\Proj6.csprojResolveAssemblyReference.cache
