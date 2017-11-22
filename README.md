@@ -4,4 +4,4 @@ C# GUI Forms Application that uses a SQL database that fills information by comp
 
 
 
-![Alt text](Screen Shot 2016-12-15 at 1.55.12 AM.jpg?raw=true "Visualization")
+![Alt text](https://raw.githubusercontent.com/george-poulos/CTA-Ridership-Analysis-GUI/master/Screen%20Shot%202016-12-15%20at%201.55.12%20AM.jpg)
